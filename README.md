@@ -100,5 +100,3 @@ LangChain ReAct Agent  ←── Ollama LLM (local)
 | convert_currency | currency-mcp | 3334 | `"1500, EUR"` |
 | calculate | calculator-mcp | 3335 | `"150 * 5 + 300"` |
 
----
-
