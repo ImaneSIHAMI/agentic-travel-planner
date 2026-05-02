@@ -102,14 +102,3 @@ LangChain ReAct Agent  ←── Ollama LLM (local)
 
 ---
 
-## Exercises (from lab)
-
-1. **Display each tool call in the GUI** ✅ Already implemented (expandable cards)
-2. **Add a critic agent** — Add a second LLM call that reviews the plan and suggests improvements
-3. **Budget constraint enforcement** — Accept a max budget and re-plan if exceeded
-
-## Extensions
-
-- Add memory with `ConversationBufferMemory`
-- Dockerize each MCP server
-- Convert to planner–executor–critic architecture
